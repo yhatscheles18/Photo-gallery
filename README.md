@@ -1,1 +1,2 @@
 # Photo-gallery
+# This ER (Entity Relationship) Diagram represents the model of Photo Gallery Entity. The entity-relationship diagram of Photo Gallery shows all the visual instrument of database tables and the relations between Images, Category, Media, Uploads etc. It used structure data and to define the relationships be-tween structured data groups of Photo Gallery functionalities. The main entities of the Photo Gallery are Media, Images, Wallpapers, Category, Login and Uploads.
